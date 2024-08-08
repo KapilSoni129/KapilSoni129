@@ -24,24 +24,6 @@ Bachelor of Technology, Data Science and Artificial Intelligence
 
 I'm **Kapil Soni**, a passionate and versatile technologist pursuing a Bachelor's in Data Science and Artificial Intelligence at the International Institute of Information Technology, Raipur. With a strong academic background and a CGPA of 7.97, I blend theoretical knowledge with practical experience in software development, web technologies, and artificial intelligence.
 
-## Professional Journey
-
-My professional experience spans across diverse domains:
-
-- As a Full Stack Intern at SauvantAI, I've contributed to developing comprehensive loan management systems and optimizing web architectures.
-- At PoodleAI, I enhanced collaboration tools and improved NLP algorithms to improve meeting productivity.
-- My internship at IIT Kharagpur allowed me to work on cutting-edge projects, improving API performance and database efficiency.
-
-## Technical Expertise
-
-I'm proficient in various technologies, including Python, JavaScript, React Native, and AI/ML frameworks. My project portfolio showcases my ability to develop innovative solutions, from AI-powered conversation analysis tools to tourism planning applications and IoT-based agricultural systems.
-
-## Beyond the Code
-
-I'm not just a coder but a problem solver and leader. My accomplishments in mathematical olympiads, hackathons, and Model UN conferences demonstrate my analytical thinking and communication skills. As a core member of coding clubs and in charge of the dramatics club, I balance my technical pursuits with creative and leadership activities.
-
-I'm always eager to take on new challenges and contribute to projects that make a real-world impact. Let's connect and explore how we can innovate together!
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kapilsoni129.github.io/)
 
 ## Skills
