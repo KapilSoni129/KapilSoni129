@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<img align="right" src="kapil_suit.jpg" width="200" height="200">
-Education:
-International Institute of Information Technology, Raipur, India
-
-Bachelor of Technology, Data Science and Artificial Intelligence
-2021 – 2025
 
 I'm **Kapil Soni**, a passionate and versatile technologist pursuing a Bachelor's in Data Science and Artificial Intelligence at the International Institute of Information Technology, Raipur. With a strong academic background, I blend theoretical knowledge with practical experience in software development, web technologies, and artificial intelligence.
 
