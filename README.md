@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 
-I'm **Kapil Soni**, a passionate and versatile technologist pursuing a Bachelor's in Data Science and Artificial Intelligence at the International Institute of Information Technology, Raipur. With a strong academic background, I blend theoretical knowledge with practical experience in software development, web technologies, and artificial intelligence.
+I'm **Kapil Soni**, a passionate and versatile technologist pursuing a Bachelor's in Data Science and Artificial Intelligence at the International Institute of Information Technology, Raipur. With a strong academic background, I blend theoretical knowledge with practical experience in software development, web technologies, and artificial intelligence. Currently based out of Bangalore.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kapilsoni129.github.io/)
 
