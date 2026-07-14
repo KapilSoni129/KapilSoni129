@@ -37,11 +37,3 @@ I'm **Kapil Soni**, a passionate and versatile technologist pursuing a Bachelor'
 ![KapilSoni129's Stats](https://github-readme-stats.vercel.app/api?username=KapilSoni129&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)</br>
 ![KapilSoni129's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KapilSoni129&theme=vue-dark&hide_border=false)</br>
 ![KapilSoni129's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KapilSoni129&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)</br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KapilSoni129&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=KapilSoni129&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
